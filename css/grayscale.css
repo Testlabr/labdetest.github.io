@@ -325,3 +325,11 @@ footer {
         
     }
 }
+
+@media (max-width: 768px){
+    .img-portrait {
+
+        max-height: 50vh;
+        width: auto;
+    }   
+}
