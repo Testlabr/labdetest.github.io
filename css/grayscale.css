@@ -295,3 +295,33 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
+.border-1 {
+    border-width:1px !important;
+}
+.border-2 {
+    border-width:2px !important;
+}
+.border-3 {
+    border-width:3px !important;
+}
+.border-4 {
+    border-width:4px !important;
+}
+.border-5 {
+    border-width:5px !important;
+}
+@media screen and (max-width: 570px){
+    .Col-Icon {
+            display: flex;
+            padding-left: .5rem!important;
+            padding-right: .5rem!important;
+        
+    }
+    .icon-img{      
+        height: auto;
+        width: 95% !important;
+        padding: 
+        
+    }
+}
