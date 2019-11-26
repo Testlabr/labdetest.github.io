@@ -4,4 +4,4 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://labdetest.github.io/sitemap.xml
+Sitemap: https://testlabr.com/sitemap.xml
